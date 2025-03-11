@@ -1,5 +1,5 @@
 [![CARC](./images/carc-logo.png 'CARC')](https://carc.usc.edu)
-# Managing Python Environments - Workshop
+# Python with Conda on CARC - Workshop
 
 This repository contains preconfigured Jupyter notebook, to run on USC CARC Discovery Cluster. 
 
@@ -11,7 +11,7 @@ This repository contains preconfigured Jupyter notebook, to run on USC CARC Disc
 
 * Gain experience with data analysis in python
 
-* Build confidence to create your own python environments to create plots
+* Learn how to create and manage your own conda environments
 
 #### Duration: 1.5 hours
 #### Prerequisites: An understanding of fundamental CARC Cluster setup and CARC Ondemand.
